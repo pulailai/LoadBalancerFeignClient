@@ -1,0 +1,3 @@
+# CUSTOM Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.winson.fegin.config.FeignClientConfiguration
